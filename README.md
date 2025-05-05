@@ -2,6 +2,10 @@
 
 A Model Context Protocol server for interacting with PowerShell. This server provides tools for executing PowerShell commands, retrieving system information, managing modules, and more.
 
+<a href="https://glama.ai/mcp/servers/@posidron/mcp-powershell">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@posidron/mcp-powershell/badge" alt="PowerShell Server MCP server" />
+</a>
+
 ## Requirements
 
 - Node.js 18+
